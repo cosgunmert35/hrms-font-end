@@ -1,3 +1,5 @@
+<img src="https://github.com/cosgunmert35/hrms-font-end/blob/master/hrmsdiagram.png"/>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
